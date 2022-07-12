@@ -1,0 +1,14 @@
+"Ensolarado","Quente","Alta","Fraco",Nao
+"Ensolarado","Quente","Alta","Forte",Nao
+"Nublado","Quente","Alta","Fraco",Sim
+"Chuvendo","Moderado","Alta","Fraco",Sim
+"Chuvendo","Frio","Normal","Fraco",Sim
+"Chuvendo","Frio","Normal","Forte",Nao
+"Nublado","Frio","Normal","Forte",Sim
+"Ensolarado","Moderado","Alta","Fraco",Nao
+"Ensolarado","Frio","Normal","Fraco",Sim
+"Chuvendo","Moderado","Normal","Fraco",Sim
+"Ensolarado","Moderado","Normal","Forte",Sim
+"Nublado","Moderado","Alta","Forte",Sim
+"Nublado","Quente","Normal","Fraco",Sim
+"Chuvendo","Moderado","Alta","Forte",Nao
