@@ -36,9 +36,6 @@ class Populacao:
             self.populacaoFinal = self.populacaoFinal + \
                 self.individuos[:elitism_size]
 
-        # proprio_gene_select = 1 - self.p_mutacao
-        # parceiro_gene_select = proprio_gene_select / 2
-
         # Seleção por torneio
         for _ in range(self.n):
             probability = random.random()
